@@ -1,6 +1,5 @@
 # KIỂM THỬ PHẦN MỀM
 
----
 
 ## Thông tin sinh viên
 - Họ và tên: Nguyễn Trường Giang
@@ -19,7 +18,7 @@
 
 ---
 
-## 1. Mục tiêu
+### 1. Mục tiêu
 - Làm quen với kiểm thử đơn vị (Unit Testing) trong phát triển phần mềm
 - Hiểu cách viết và chạy các ca kiểm thử tự động bằng JUnit
 - Nâng cao kỹ năng phân tích yêu cầu và xây dựng test case
@@ -27,7 +26,7 @@
 
 ---
 
-## 2. Công cụ sử dụng
+### 2. Công cụ sử dụng
 - Ngôn ngữ lập trình: Java
 - Thư viện kiểm thử: JUnit 5
 - Môi trường phát triển: IntelliJ IDEA
@@ -35,7 +34,7 @@
 
 ---
 
-## 3. Nội dung thực hiện
+### 3. Nội dung thực hiện
 - Xây dựng lớp `StudentAnalyzer` để xử lý và phân tích danh sách điểm số học sinh
 - Cài đặt các phương thức:
   - Đếm số học sinh đạt loại Giỏi (điểm ≥ 8.0)
@@ -49,7 +48,7 @@
 
 ---
 
-## 4. Nhận xét – Đánh giá
+### 4. Nhận xét – Đánh giá
 - Việc viết kiểm thử đơn vị giúp phát hiện lỗi logic sớm trong quá trình phát triển
 - JUnit hỗ trợ kiểm thử tự động, giúp tiết kiệm thời gian và tăng độ tin cậy của chương trình
 - Thông qua bài thực hành, em hiểu rõ hơn cách xây dựng test case phù hợp với yêu cầu bài toán
@@ -57,7 +56,7 @@
 
 ---
 
-## 5. Kết luận
+### 5. Kết luận
 - Kiểm thử đơn vị là bước quan trọng trong quy trình phát triển phần mềm
 - Bài thực hành giúp củng cố kiến thức về kiểm thử và lập trình Java
 - Kỹ năng viết unit test sẽ hỗ trợ hiệu quả cho các bài tập và dự án nhóm trong học phần cũng như trong thực tế
